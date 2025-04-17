@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(101, 173, 241);
+}
+
+p {
+    color: white;
+}
+
+#titulo {
+    text-align: center;
+}
