@@ -1,0 +1,19 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.carousel-item img {
+    max-height: 500px; 
+    object-fit: cover;
+  }
+
+
+.container-receitas {
+    margin-top: 16px; 
+    display:flex;
+    justify-content: space-around;
+}
+
+#receitas-subtitulo {
+    margin-top: 64px;
+    text-align: center;
+}
