@@ -10,7 +10,9 @@
 .container-receitas {
     margin-top: 16px; 
     display:flex;
-    justify-content: space-around;
+    justify-content: flex-start;
+    gap: 32px;
+    flex-wrap: wrap;
 }
 
 #receitas-subtitulo {
